@@ -1,0 +1,4 @@
+operating_system
+cpu_type
+cpu_usage
+memory_usage
