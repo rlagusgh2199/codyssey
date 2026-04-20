@@ -1,3 +1,4 @@
+#pip install PyQt6
 #8주차 문제3 계산기의 제작
 import sys
 from PyQt6.QtWidgets import (QApplication, QWidget, QVBoxLayout, 
