@@ -1,4 +1,4 @@
-#문제6 미션 컴퓨터 리턴즈
+#5주차 / 문제6 미션 컴퓨터 리턴즈
 import random
 import datetime
 
