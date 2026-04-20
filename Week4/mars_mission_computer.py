@@ -1,4 +1,4 @@
-#문제7 살아난 미션 컴퓨터
+#6주차 / 문제7 살아난 미션 컴퓨터
 import random
 import time
 import datetime
